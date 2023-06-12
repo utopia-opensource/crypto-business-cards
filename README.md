@@ -47,3 +47,6 @@ In a couple of seconds, your model will be ready. You can import it into any 3D 
 Resize the model to 90x50x3 mm.
 
 3D print! Enjoy!
+
+---
+[![udocs](https://github.com/Sagleft/ures/blob/master/udocs-btn.png?raw=true)](https://udocs.gitbook.io/utopia-api/)
